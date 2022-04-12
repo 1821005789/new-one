@@ -1,0 +1,306 @@
+#div1 {
+    background-image: url(https://tse1-mm.cn.bing.net/th/id/OIP-C.BduaJnc_xU4gD1cc-B2n0gHaEK?w=255&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    background-position:  left top;
+    background-repeat:  repeat;
+    padding: 15px;
+height:2400px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+}
+
+.active {
+    background-color:#606060;
+}
+
+.h1{
+  margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+  text-align:center;
+}
+
+.h1 span{
+  font-weight:400;
+}
+
+.h1{
+  font-family: "Papyrus", "Copperplate", Fantasy;
+font-size: 30px
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+float: left;
+border-right: 1px solid #bbb;
+}
+
+
+
+li a:hover {
+background-color: #111;
+}
+
+body {
+background-image: url(https://tse1-mm.cn.bing.net/th/id/OIP-C.BduaJnc_xU4gD1cc-B2n0gHaEK?w=255&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+margin: 0;
+padding: 0;
+}
+
+.h2{
+  font-size:50px;
+  margin-left:300px;
+  font:500 80px;
+}
+
+.pp{
+  font-weight: 18px;
+font-size: 19px;
+  line-height: 24px;
+  padding-bottom: 00px;
+}
+
+.left{
+  height:500px;
+  float:left;
+    shape-margin:20px;
+  shepe-outside:url(.https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.mingxing.com%2FUpload%2FArticles%2F1%2F0%2F631%2F631090_20210618174144778.png&refer=http%3A%2F%2Fwww.mingxing.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651803091&t=7058f0f4940f8d68ee2274ce207267fa);
+}
+  .right{
+  height:500px;
+  float:right;
+    shape-margin:20px;
+  shepe-outside:url(https://s.cn.bing.net/th?id=OIP-C.TZzS5T3d_COKBudQtzzQIwHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2); 
+}
+footer {  
+position: fixed;  
+left: 10px;  
+bottom: 00px;  
+right: 10px;   
+width: 100%;  
+background-color: ;  
+color: white;  
+text-align: center;  
+}
+
+
+.h11{
+  margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+  text-align:center;
+}
+
+.h11 span{
+  font-weight:400;
+}
+
+.h11{
+  font-family: "Papyrus", "Copperplate", Fantasy;
+font-size: 30px
+}
+
+.h22 {
+border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: #000000;
+font-weight: 500;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+text-align: center;
+width: 70%;
+}
+
+.byline {
+font-family: Helvetica;
+color: #000000;
+float: left;
+font-size: 14px;
+padding-left: 10px;
+text-transform: uppercase;
+}
+
+.h44{
+  font-weight: 500;
+font-size: 40px;
+  line-height: 24px;
+  padding-bottom: 00px;
+}
+
+.h55{
+  font-weight: 500;
+font-size: 40px;
+  line-height: 24px;
+  padding-bottom: 00px;
+}
+
+.h66{
+  font-weight: 500;
+font-size: 40px;
+  line-height: 24px;
+  padding-bottom: 00px;
+}
+
+.h77{
+  font-weight: 500;
+font-size: 40px;
+  line-height: 24px;
+  padding-bottom: 00px;
+}
+
+.h88{
+  font-weight: 500;
+font-size: 40px;
+  line-height: 24px;
+  padding-bottom: 00px;
+}
+
+
+.content {
+padding: 40px;
+}
+
+.p1{
+  font-weight: 20px;
+font-size: 20px;
+  line-height: 25px;
+  padding-bottom: 00px;
+}
+
+
+
+.writer-img {
+-webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+-moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+float: left;
+width: 50px;
+}
+
+
+.image {
+background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp2.itc.cn%2Fq_70%2Fimages03%2F20210526%2F8904df580da5470198229af20c1359cf.png&refer=http%3A%2F%2Fp2.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651930419&t=e766cd70169b1dd25fb021c000616a20");
+background-size: cover;
+background-position: left;
+height: 900px;
+}
+
+.caption {
+display: block;
+font-family: 'Playfair Display', serif;
+font-size: 34px;
+font-style: italic;
+line-height: 34px;
+margin-left: 20px;
+padding: 10px;
+position: relative;
+text-align: center;
+top: 50%;
+width: 90%;
+}
+
+
+.h111 span{
+  font-weight:400;
+}
+
+.h111{
+  margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+  text-align:center;
+}
+
+
+
+.h111{
+  font-family: "Papyrus", "Copperplate", Fantasy;
+font-size: 30px
+}
+
+.shell{
+  postition:relative;
+  width:70%;
+  padding:50px;
+}
+
+
+.ppp{
+  font-weight: 20px;
+font-size: 20px;
+  line-height: 24px;
+  padding-bottom: 00px;
+}
+
+.h222{
+  margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+  text-align:center;
+}
+
+.picture{
+ 
+  text-align:center;
+  
+}
+
+.h333{
+  margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+  }
+
+.h444{
+  margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+  }
+
+.h555{
+  margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+}
+
+.p3{
+  font-weight: 18px;
+font-size: 19px;
+  line-height: 24px;
+  padding-bottom: 00px;
+  text-align:center;
+}
